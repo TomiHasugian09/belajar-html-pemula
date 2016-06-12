@@ -1,0 +1,6 @@
+{
+  "name": "Belajar-html-pemula",
+  "tagline": "",
+  "body": "<HTML>\r\n<HEAD>\r\n<TITLE>Latihan HTML </TITLE>\r\n</HEAD>\r\n<!--INI MERUPAKAN SUATU KOMENTAR-->\r\n<BODY>\r\nSelamat Belajar HTML<BR>\r\nSemoga Sukses !\r\n</BODY>\r\n</HTML>\r\n\r\n\r\n<HTML>\r\n<HEAD>\r\n<TITLE>Contoh Pengaturan Judul</TITLE>\r\n</HEAD>\r\n<H1 ALIGN = 'left'> Pesona Tanaman Hias </h1>\r\nKeindahan tanaman hias<BR>\r\nmembawa suatu pesona tersendiri<BR>\r\nWarna-warni bunga\r\n</BODY>\r\n</HTML>\r\n</HTML>\r\n\r\n<HTML>\r\n<HEAD>\r\n<TITLE>Atribut NOSHADE pada Tag HR</TITLE>\r\n</HEAD>\r\n<BODY>\r\n<H1>LADANG PERTANIAN MASYARAKAT</H1>\r\n<HR SIZE = '10' NOSHADE>\r\nBASING LAH APA<BR>\r\nDI BULAN <BR>\r\nIndonesia<BR>\r\n</BODY>\r\n</HTML>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
